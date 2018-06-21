@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Android Quiz</string>
+
+    <!-- Question one radio button-->
+    <string name="question_one">1. What operating system might be replacing Chrome OS and Android OS?</string>
+    <string name="q1_optA">Robot</string>
+    <string name="q1_optB">A.I.</string>
+    <string name="q1_optC">Fuchsia</string>
+    <string name="q1_optD">Cyborg</string>
+
+    <!-- Question two radio button-->
+    <string name="question_two">2. What year did Google release  the Android OS?</string>
+    <string name="q2_optA">2008</string>
+    <string name="q2_optB">2007</string>
+    <string name="q2_optC">2006</string>
+    <string name="q2_optD">2010</string>
+
+    <!-- Question three radio button-->
+    <string name="question_three">3. What is the most recent Android OS?</string>
+    <string name="q3_optA">Marshmallow</string>
+    <string name="q3_optB">Oreo</string>
+    <string name="q3_optC">Lollipop</string>
+    <string name="q3_optD">KitKat</string>
+
+    <!-- Question four checkboxs -->
+
+    <string name="question_four">4. Whick of the following are Android OS?</string>
+    <string name="q4_opt1">Cupcake</string>
+    <string name="q4_opt2">Fruit Cake</string>
+    <string name="q4_opt3">Twix</string>
+    <string name="q4_opt4">KitKat</string>
+
+
+    <!-- Question five EditText input-->
+    <string name="question_five">5. What programming language is quickly replacing Java?</string>
+    <string name="enter_answer">Enter Answer</string>
+
+    <!-- Submit button text -->
+    <string name="submit_button">Submit</string>
+
+
+
+</resources>
